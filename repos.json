@@ -301,6 +301,28 @@
             "url": "https://matcha-soft.com"
           },
           "url": "https://github.com/MitarashiDango/mitarashi-dango-avatar-utils/releases/download/1.10.0/com.matcha-soft.vrchat-avatar-utils-1.10.0.zip"
+        },
+        "1.11.0": {
+          "name": "com.matcha-soft.vrchat-avatar-utils",
+          "version": "1.11.0",
+          "displayName": "MitarashiDango's Avatar Utils",
+          "description": "",
+          "unity": "2022.3",
+          "documentationUrl": "",
+          "changelogUrl": "",
+          "licensesUrl": "",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.7.4",
+            "nadena.dev.ndmf": ">=1.5.7",
+            "nadena.dev.modular-avatar": ">=1.10.10"
+          },
+          "keywords": [],
+          "author": {
+            "name": "MitarashiDango",
+            "email": "mitarashi_dango@mail.matcha-soft.com",
+            "url": "https://matcha-soft.com"
+          },
+          "url": "https://github.com/MitarashiDango/mitarashi-dango-avatar-utils/releases/download/1.11.0/com.matcha-soft.vrchat-avatar-utils-1.11.0.zip"
         }
       }
     }
