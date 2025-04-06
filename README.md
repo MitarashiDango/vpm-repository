@@ -1,4 +1,4 @@
-# MitarashiDango VPM Repository
+# MitarashiDango's VPM Repository
 
 ## これはなに？
 - 個人用のVPMリポジトリーです
