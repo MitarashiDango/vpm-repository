@@ -13,9 +13,6 @@
           "description": "",
           "unity": "2019.1",
           "unityRelease": "0b5",
-          "documentationUrl": "",
-          "changelogUrl": "",
-          "licensesUrl": "",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.4.0",
             "nadena.dev.ndmf": ">=1.4.1",
@@ -36,9 +33,6 @@
           "description": "",
           "unity": "2019.1",
           "unityRelease": "0b5",
-          "documentationUrl": "",
-          "changelogUrl": "",
-          "licensesUrl": "",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.4.0",
             "nadena.dev.ndmf": ">=1.4.1",
@@ -59,9 +53,6 @@
           "description": "",
           "unity": "2019.1",
           "unityRelease": "0b5",
-          "documentationUrl": "",
-          "changelogUrl": "",
-          "licensesUrl": "",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.4.0",
             "nadena.dev.ndmf": ">=1.4.1",
@@ -82,9 +73,6 @@
           "description": "",
           "unity": "2019.1",
           "unityRelease": "0b5",
-          "documentationUrl": "",
-          "changelogUrl": "",
-          "licensesUrl": "",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.4.0",
             "nadena.dev.ndmf": ">=1.4.1",
@@ -105,9 +93,6 @@
           "description": "",
           "unity": "2019.1",
           "unityRelease": "0b5",
-          "documentationUrl": "",
-          "changelogUrl": "",
-          "licensesUrl": "",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.4.0",
             "nadena.dev.ndmf": ">=1.4.1",
@@ -128,9 +113,6 @@
           "description": "",
           "unity": "2019.1",
           "unityRelease": "0b5",
-          "documentationUrl": "",
-          "changelogUrl": "",
-          "licensesUrl": "",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.4.0",
             "nadena.dev.ndmf": ">=1.4.1",
@@ -151,9 +133,6 @@
           "description": "",
           "unity": "2019.1",
           "unityRelease": "0b5",
-          "documentationUrl": "",
-          "changelogUrl": "",
-          "licensesUrl": "",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.4.0",
             "nadena.dev.ndmf": ">=1.4.1",
@@ -174,9 +153,6 @@
           "description": "",
           "unity": "2019.1",
           "unityRelease": "0b5",
-          "documentationUrl": "",
-          "changelogUrl": "",
-          "licensesUrl": "",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.4.0",
             "nadena.dev.ndmf": ">=1.4.1",
@@ -197,9 +173,6 @@
           "description": "",
           "unity": "2019.1",
           "unityRelease": "0b5",
-          "documentationUrl": "",
-          "changelogUrl": "",
-          "licensesUrl": "",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.4.0",
             "nadena.dev.ndmf": ">=1.4.1",
@@ -220,9 +193,6 @@
           "description": "",
           "unity": "2019.1",
           "unityRelease": "0b5",
-          "documentationUrl": "",
-          "changelogUrl": "",
-          "licensesUrl": "",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.4.0",
             "nadena.dev.ndmf": ">=1.4.1",
@@ -242,9 +212,6 @@
           "displayName": "MitarashiDango's Avatar Utils",
           "description": "",
           "unity": "2022.3",
-          "documentationUrl": "",
-          "changelogUrl": "",
-          "licensesUrl": "",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.4.0",
             "nadena.dev.ndmf": ">=1.4.1",
@@ -264,9 +231,6 @@
           "displayName": "MitarashiDango's Avatar Utils",
           "description": "",
           "unity": "2022.3",
-          "documentationUrl": "",
-          "changelogUrl": "",
-          "licensesUrl": "",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.7.4",
             "nadena.dev.ndmf": ">=1.5.7",
@@ -286,9 +250,6 @@
           "displayName": "MitarashiDango's Avatar Utils",
           "description": "",
           "unity": "2022.3",
-          "documentationUrl": "",
-          "changelogUrl": "",
-          "licensesUrl": "",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.7.4",
             "nadena.dev.ndmf": ">=1.5.7",
@@ -308,9 +269,6 @@
           "displayName": "MitarashiDango's Avatar Utils",
           "description": "",
           "unity": "2022.3",
-          "documentationUrl": "",
-          "changelogUrl": "",
-          "licensesUrl": "",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.7.4",
             "nadena.dev.ndmf": ">=1.5.7",
@@ -330,9 +288,6 @@
           "displayName": "MitarashiDango's Avatar Utils",
           "description": "",
           "unity": "2022.3",
-          "documentationUrl": "",
-          "changelogUrl": "",
-          "licensesUrl": "",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.7.4",
             "nadena.dev.ndmf": ">=1.5.7",
@@ -352,9 +307,6 @@
           "displayName": "MitarashiDango's Avatar Utils",
           "description": "",
           "unity": "2022.3",
-          "documentationUrl": "",
-          "changelogUrl": "",
-          "licensesUrl": "",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.7.4",
             "nadena.dev.ndmf": ">=1.5.7",
@@ -374,9 +326,6 @@
           "displayName": "MitarashiDango's Avatar Utils",
           "description": "",
           "unity": "2022.3",
-          "documentationUrl": "",
-          "changelogUrl": "",
-          "licensesUrl": "",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.7.4",
             "nadena.dev.ndmf": ">=1.5.7",
@@ -396,9 +345,6 @@
           "displayName": "MitarashiDango's Avatar Utils",
           "description": "",
           "unity": "2022.3",
-          "documentationUrl": "",
-          "changelogUrl": "",
-          "licensesUrl": "",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.7.4",
             "nadena.dev.ndmf": ">=1.5.7",
@@ -422,9 +368,6 @@
           "displayName": "PhysBones Switcher",
           "description": "アバターの PhysBone を動的にオンオフするメニューを生やすモジュール",
           "unity": "2022.3",
-          "documentationUrl": "",
-          "changelogUrl": "",
-          "licensesUrl": "",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.7.6",
             "nadena.dev.ndmf": ">=1.7.9",
