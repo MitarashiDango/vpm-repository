@@ -413,6 +413,31 @@
           "url": "https://github.com/MitarashiDango/mitarashi-dango-avatar-utils/releases/download/1.13.0/com.matcha-soft.vrchat-avatar-utils-1.13.0.zip"
         }
       }
+    },
+    "com.matcha-soft.physbones-switcher": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.matcha-soft.physbones-switcher",
+          "version": "1.0.0",
+          "displayName": "PhysBones Switcher",
+          "description": "アバターの PhysBone を動的にオンオフするメニューを生やすモジュール",
+          "unity": "2022.3",
+          "documentationUrl": "",
+          "changelogUrl": "",
+          "licensesUrl": "",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.7.6",
+            "nadena.dev.ndmf": ">=1.7.9",
+            "nadena.dev.modular-avatar": ">=1.12.5"
+          },
+          "keywords": [],
+          "author": {
+            "name": "MitarashiDango",
+            "email": "mitarashi_dango@mail.matcha-soft.com",
+            "url": "https://matcha-soft.com"
+          }
+        }
+      }
     }
   }
 }
