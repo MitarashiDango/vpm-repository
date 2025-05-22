@@ -446,7 +446,7 @@
           "name": "com.matcha-soft.avatar-catalog",
           "version": "0.0.12",
           "displayName": "Avatar Catalog",
-          "description": "",
+          "description": "アバター管理ツール",
           "unity": "2022.3",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.7.4"
@@ -463,7 +463,7 @@
           "name": "com.matcha-soft.avatar-catalog",
           "version": "0.0.13",
           "displayName": "Avatar Catalog",
-          "description": "",
+          "description": "アバター管理ツール",
           "unity": "2022.3",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.7.4"
@@ -480,7 +480,7 @@
           "name": "com.matcha-soft.avatar-catalog",
           "version": "0.0.14",
           "displayName": "Avatar Catalog",
-          "description": "",
+          "description": "アバター管理ツール",
           "unity": "2022.3",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.7.4"
@@ -497,7 +497,7 @@
           "name": "com.matcha-soft.avatar-catalog",
           "version": "0.0.15",
           "displayName": "Avatar Catalog",
-          "description": "",
+          "description": "アバター管理ツール",
           "unity": "2022.3",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.7.4"
@@ -509,6 +509,23 @@
             "url": "https://matcha-soft.com"
           },
           "url": "https://github.com/MitarashiDango/avatar-catalog/releases/download/0.0.15/com.matcha-soft.avatar-catalog-0.0.15.zip"
+        },
+        "0.0.16": {
+          "name": "com.matcha-soft.avatar-catalog",
+          "version": "0.0.16",
+          "displayName": "Avatar Catalog",
+          "description": "アバター管理ツール",
+          "unity": "2022.3",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.7.4"
+          },
+          "keywords": [],
+          "author": {
+            "name": "MitarashiDango",
+            "email": "mitarashi_dango@mail.matcha-soft.com",
+            "url": "https://matcha-soft.com"
+          },
+          "url": "https://github.com/MitarashiDango/avatar-catalog/releases/download/0.0.16/com.matcha-soft.avatar-catalog-0.0.16.zip"
         }
       }
     }
