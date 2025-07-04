@@ -437,6 +437,25 @@
             "url": "https://matcha-soft.com"
           },
           "url": "https://github.com/MitarashiDango/physbones-switcher/releases/download/1.2.1/com.matcha-soft.physbones-switcher-1.2.1.zip"
+        },
+        "1.3.0": {
+          "name": "com.matcha-soft.physbones-switcher",
+          "version": "1.3.0",
+          "displayName": "PhysBones Switcher",
+          "description": "アバターの PhysBone を動的にオンオフするメニューを生やすモジュール",
+          "unity": "2022.3",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.7.6",
+            "nadena.dev.ndmf": ">=1.7.9",
+            "nadena.dev.modular-avatar": ">=1.12.5"
+          },
+          "keywords": [],
+          "author": {
+            "name": "MitarashiDango",
+            "email": "mitarashi_dango@mail.matcha-soft.com",
+            "url": "https://matcha-soft.com"
+          },
+          "url": "https://github.com/MitarashiDango/physbones-switcher/releases/download/1.3.0/com.matcha-soft.physbones-switcher-1.3.0.zip"
         }
       }
     },
