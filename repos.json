@@ -596,6 +596,23 @@
             "url": "https://matcha-soft.com"
           },
           "url": "https://github.com/MitarashiDango/avatar-catalog/releases/download/0.0.19/com.matcha-soft.avatar-catalog-0.0.19.zip"
+        },
+        "0.1.0": {
+          "name": "com.matcha-soft.avatar-catalog",
+          "version": "0.1.0",
+          "displayName": "Avatar Catalog",
+          "description": "アバター管理ツール",
+          "unity": "2022.3",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.7.4"
+          },
+          "keywords": [],
+          "author": {
+            "name": "MitarashiDango",
+            "email": "mitarashi_dango@mail.matcha-soft.com",
+            "url": "https://matcha-soft.com"
+          },
+          "url": "https://github.com/MitarashiDango/avatar-catalog/releases/download/0.1.0/com.matcha-soft.avatar-catalog-0.1.0.zip"
         }
       }
     }
