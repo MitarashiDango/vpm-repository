@@ -810,6 +810,29 @@
           "url": "https://github.com/MitarashiDango/avatar-catalog/releases/download/0.4.3/com.matcha-soft.avatar-catalog-0.4.3.zip"
         }
       }
+    },
+    "com.matcha-soft.facial-expression-controller": {
+      "versions": {
+        "1.0.0-alpha.2": {
+          "name": "com.matcha-soft.facial-expression-controller",
+          "version": "1.0.0-alpha.2",
+          "displayName": "Facial Expression Controller",
+          "description": "アバター向け表情コントローラー (v2)",
+          "unity": "2022.3",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.10.1",
+            "nadena.dev.ndmf": ">=1.11.0",
+            "nadena.dev.modular-avatar": ">=1.16.2"
+          },
+          "keywords": [],
+          "author": {
+            "name": "MitarashiDango",
+            "email": "mitarashi_dango@mail.matcha-soft.com",
+            "url": "https://matcha-soft.com"
+          },
+          "url": "https://github.com/MitarashiDango/facial-expression-controller/releases/download/1.0.0-alpha.2/com.matcha-soft.facial-expression-controller-1.0.0-alpha.2.zip"
+        }
+      }
     }
   }
 }
