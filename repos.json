@@ -1031,20 +1031,22 @@
     },
     "com.matcha-soft.road-asset-generator": {
       "versions": {
-        "name": "com.matcha-soft.road-asset-generator",
-        "version": "1.1.0",
-        "displayName": "Road Asset Generator",
-        "description": "道路用テクスチャ・マテリアルをプロシージャル生成する Unity Editor 拡張。",
-        "unity": "2022.3",
-        "keywords": [],
-        "author": {
-          "name": "MitarashiDango"
-        },
-        "license": "MIT",
-        "licensesUrl": "https://github.com/MitarashiDango/road-asset-generator/blob/main/LICENSE",
-        "documentationUrl": "https://github.com/MitarashiDango/road-asset-generator/blob/main/README.md",
-        "changelogUrl": "https://github.com/MitarashiDango/road-asset-generator/blob/main/CHANGELOG.md",
-        "url": "https://github.com/MitarashiDango/road-asset-generator/releases/download/1.1.0/com.matcha-soft.road-asset-generator-1.1.0.zip"
+        "1.1.0": {
+          "name": "com.matcha-soft.road-asset-generator",
+          "version": "1.1.0",
+          "displayName": "Road Asset Generator",
+          "description": "道路用テクスチャ・マテリアルをプロシージャル生成する Unity Editor 拡張。",
+          "unity": "2022.3",
+          "keywords": [],
+          "author": {
+            "name": "MitarashiDango"
+          },
+          "license": "MIT",
+          "licensesUrl": "https://github.com/MitarashiDango/road-asset-generator/blob/main/LICENSE",
+          "documentationUrl": "https://github.com/MitarashiDango/road-asset-generator/blob/main/README.md",
+          "changelogUrl": "https://github.com/MitarashiDango/road-asset-generator/blob/main/CHANGELOG.md",
+          "url": "https://github.com/MitarashiDango/road-asset-generator/releases/download/1.1.0/com.matcha-soft.road-asset-generator-1.1.0.zip"
+        }
       }
     }
   }
